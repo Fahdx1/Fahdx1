@@ -10,7 +10,8 @@
 => Web pentesting — JS analysis, business logic & access control bugs & server side attacks
 => Source-level vulnerability research & exploit path tracing
 => Bug bounty hunting on Bugcrowd & yesWeHack
-=> Books I finished - The Web Application Hacker’s Handbook 2nd ed & Real-world BB & Black Hat GraphQL
+=> Books I finished - The Web Application Hacker’s Handbook 2nd ed & 
+Real-world BB & Black Hat GraphQL
 ```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=200&size=25&duration=1000&pause=1000&color=128743&multiline=true&repeat=false&width=500&height=110&lines=Everyone+kept+telling+stories+about+;barriers%2C+limits%2C+closed+doors.+;So%2C+I+broke+them" alt="Typing SVG" /></a>
 ## Certifications & Achievements
