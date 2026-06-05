@@ -17,8 +17,9 @@
 └─$ cat timeline
 >
 => Jan 2024 – Sep 2025 : Full-time independent researcher
-=> SE{ 2025 – present  : Part-time alongside SW testing and other stuff
+=> SEP 2025 – present  : Part-time alongside SW testing and other stuff
 ```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=200&size=25&duration=1000&pause=1000&color=128743&multiline=true&repeat=false&width=500&height=110&lines=Everyone+kept+telling+stories+about+;barriers%2C+limits%2C+closed+doors.+;So%2C+I+broke+them" alt="Typing SVG" /></a>
 
 ## 📫 Connect With Me
 
