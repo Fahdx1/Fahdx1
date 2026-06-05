@@ -3,7 +3,7 @@
 └─$ cat about-me
 
 ⁍ Name : Fahd Said
-⁍ Role : Pentester @ Software Tester
+⁍ Role : Pentester & Software Tester
 ⁍ Focus: Web Security & Cloud Attack Surfaces active
 
 ┌──(fahd㉿GitHub)-[~]
@@ -11,7 +11,7 @@
 
 => Web pentesting — JS static analysis, business logic & access control bugs
 => Source-level vulnerability research & exploit path tracing
-=> Bug bounty hunting on Bugcrowd & yesWEHack
+=> Bug bounty hunting on Bugcrowd & yesWeHack
 
 ┌──(fahd㉿GitHub)-[~]
 └─$ cat timeline
