@@ -29,6 +29,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fahdx1&style=flat-square)
 ---
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhtOWxleWcwZGx2amVwY2J5bmZxdzFkNG11eXNobDhld245cXdmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgNPVbGsa0Wd8li/giphy.gif" width="400" />
+</p>
 
 <p align="center">
   <i>"Don't just report bugs. Understand the data flow."</i>
