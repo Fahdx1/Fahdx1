@@ -15,7 +15,6 @@
 
 ┌──(fahd㉿GitHub)-[~]
 └─$ cat timeline
->
 => Jan 2024 – Sep 2025 : Full-time independent researcher
 => SEP 2025 – present  : Part-time alongside SW testing and other stuff
 ```
