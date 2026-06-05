@@ -30,5 +30,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Fahdx1&style=flat-square)
 ---
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhtOWxleWcwZGx2amVwY2J5bmZxdzFkNG11eXNobDhld245cXdmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgNPVbGsa0Wd8li/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NG4ydWYzejNuNjVjZW55Nmpia2lhZm1uaDQxeHc2Y2ZyNTU4Y2cydiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/eEq8SAwQDAKZm9nyQZ/giphy.gif" width="400" />
 </p>
