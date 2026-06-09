@@ -1,0 +1,122 @@
+# Skills Checklist
+
+## Defensive Skills
+
+the following technologies I have experience building and securing.
+
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] PHP
+- [ ] RESTful APIs
+- [ ] GraphQL
+- [ ] JSON
+- [ ] XML
+- [ ] HTTP/HTTPS
+- [ ] OAuth
+- [ ] JWT (JSON Web Tokens)
+- [ ] Subdomain Takeover
+- [ ] DNS Security
+- [ ] Web Application Firewalls (WAFs)
+- [ ] Amazon Web Services (AWS)
+- [ ] Google Cloud Platform (GCP)
+- [ ] Docker
+- [ ] Azure Functions
+- [ ] Google Cloud Functions
+- [ ] IAM (Identity and Access Management)
+- [ ] AWS Config
+
+## Offensive Skills
+
+ Tools/techniques I have experience weaponizing
+
+- [ ] JS analysis
+- [ ] Graph-QL Testing
+- [ ] Cross-Site Request Forgery (CSRF)
+- [ ] Server-Side Request Forgery (SSRF)
+- [ ] Local File Inclusion (LFI)
+- [ ] Remote File Inclusion (RFI)
+- [ ] Directory Traversal
+- [ ] JSON Web Token (JWT) Cracking
+- [ ] Authentication Bypass
+- [ ] Authorization Flaws
+- [ ] Cookie Poisoning
+- [ ] HTTP Header Injection
+- [ ] Business Logic Flaws
+- [ ] Insecure Direct Object References (IDOR)
+- [ ] Subdomain Takeover
+- [ ] LFI to RCE
+- [ ] RFI to RCE
+- [ ] HTTP Response Splitting
+- [ ] Brute Force Attacks
+- [ ] Exploiting Unsecure APIs
+- [ ] Broken Access Control
+- [ ] HTTP Parameter Pollution
+- [ ] HTTP Smuggling
+- [ ] Exploiting Insecure File Uploads
+- [ ] API Endpoint Fuzzing
+- [ ] GraphQL Injection
+- [ ] Exploiting Information Disclosure
+- [ ] Race Condition Exploits
+- [ ] HTTP Host Header Attack
+- [ ] Exploiting X-Frame-Options Bypass
+- [ ] Exploiting X-Content-Type-Options Bypass
+- [ ] Exploiting Weak JWT Implementation
+- [ ] Exploiting Insecure Deserialization
+- [ ] Path Traversal Attacks
+- [ ] Exploiting HTTP Verb Tampering
+- [ ] Exploiting User Enumeration
+- [ ] Burp Suite
+- [ ] Seengrep AI
+- [ ] Postman
+- [ ] SQLMap
+- [ ] Nmap
+- [ ] Dirb
+- [ ] Gobuster
+- [ ] Recon-ng
+- [ ] Sublist3r
+- [ ] Amass
+- [ ] MassDNS
+- [ ] Aquatone
+- [ ] Eyewitness
+- [ ] Arachni
+- [ ] Wapiti
+- [ ] CMSmap
+- [ ] WhatWeb
+- [ ] Wappalyzer
+- [ ] Shodan
+- [ ] Censys
+- [ ] Nessus
+- [ ] OpenVAS
+- [ ] PayloadsAllTheThings
+- [ ] SecLists
+- [ ] Hydra
+- [ ] Droopescan
+- [ ] Vulners
+- [ ] Exploit-DB
+- [ ] FFUF
+- [ ] Interlace
+- [ ] Vhostscan
+- [ ] Subfinder
+- [ ] Assetfinder
+- [ ] DNSDumpster
+- [ ] Findomain
+- [ ] Gau
+- [ ] GitTools
+- [ ] Exploiting Weak Password Policies
+- [ ] Exploiting Insecure Transport Layer
+- [ ] HTTP Parameter Pollution
+- [ ] Exploiting Insecure Software Deployment
+- [ ] Privilege Escalation
+- [ ] Exploiting Insecure Network Architecture
+- [ ] Exploiting Open Redirects
+- [ ] URL Redirection Abuse
+- [ ] Exploiting Weak API Security
+- [ ] Exploiting Remote Code Execution (RCE)
+- [ ] Memory Corruption
+- [ ] Covert Channels
+- [ ] Steganography
+- [ ] Mail Command Injection
+- [ ] Email Spoofing
+- [ ] Data Exfiltration
+- [ ] Exploiting SSRF
