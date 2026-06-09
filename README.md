@@ -15,7 +15,7 @@
 |Achievement | From |  
 |:---:|---|
  **OSCP** — Offensive Security Content | Offsec |
- **Critical Finding — CVSS 9.2** -- pending disclosure | [Bugcrowd](https://bugcrowd.com/) |
+ **Critical Finding — CVSS 9.2** -- pending disclosure | [intigriti](https://www.intigriti.com/) |
  **280+ Solved Labs** | [PentesterLab](https://pentesterlab.com/) |
  API Penetration Testing | [University.apisec](https://university.apisec.ai/products/api-penetration-testing) |
  **API Badge** — API security & Hacking | [PentesterLab](https://pentesterlab.com/) |
