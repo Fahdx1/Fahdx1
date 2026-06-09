@@ -9,7 +9,7 @@
 
 ## => <a href="https://github.com/Fahdx1/Fahdx1/blob/main/What%20can%20i%20do%3F.md">what-i-do</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=200&size=25&duration=1000&pause=1000&color=128743&multiline=true&repeat=false&width=500&height=110&lines=Everyone+kept+telling+stories+about+;barriers%2C+limits%2C+closed+doors.+;So%2C+I+broke+them" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=200&size=25&duration=2500&pause=1200&color=128743&multiline=true&repeat=true&width=500&height=110&lines=Everyone+kept+telling+stories+about+;barriers%2C+limits%2C+closed+doors.+;So%2C+I+broke+them" alt="Typing SVG" /></a>
 ## Certifications & Achievements
 
 |Achievement | From |  
